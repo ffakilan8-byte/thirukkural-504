@@ -2,6 +2,13 @@
 
 An interactive, scrolling web experience that tells the story of **Thirukkural 504**, using the work of the sage **Thiruvalluvar**. It has a cinematic hero page, a fire-text kural page, cinematic artwork pages, seven word-by-word pages and a short closing story.
 
+## Team: BYTE CODE
+| Name | Register No. |
+|------|--------------|
+| AKILAN P | 7376252AL105 |
+| DHARNISH B | 7376252AL144 |
+| GOKUL B | 7376251CS184 |
+
 ## 📖 Kural Description
 
 ### Thirukkural 504
@@ -19,13 +26,6 @@ This Kural teaches us not to judge a person based on a single mistake or a singl
 
 The central message of the Kural is **balanced judgment** — examine, compare and then decide.
 
-## Team: BYTE CODE
-
-| Name | Register No. |
-|------|--------------|
-| AKILAN P | 7376252AL105 |
-| DHARNISH B | 7376252AL144 |
-| GOKUL B | 7376251CS184 |
 
 ## Project structure
 
