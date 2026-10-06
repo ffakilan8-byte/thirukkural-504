@@ -2,7 +2,22 @@
 
 An interactive, scrolling web experience that tells the story of **Thirukkural 504**, using the work of the sage **Thiruvalluvar**. It has a cinematic hero page, a fire-text kural page, cinematic artwork pages, seven word-by-word pages and a short closing story.
 
-> *Examine the good. Examine the faults. Weigh both. Accept by what is greater.*
+## 📖 Kural Description
+
+### Thirukkural 504
+
+**குணம் நாடிக் குற்றமும் நாடி அவற்றுள்  
+மிகை நாடி மிக்க கொளல்**
+
+**Meaning:**
+
+Examine a person's good qualities and faults. Compare both carefully and determine which side is greater. A person should be accepted or selected based on the qualities that prevail.
+
+**Explanation:**
+
+This Kural teaches us not to judge a person based on a single mistake or a single good quality. We should carefully consider both the strengths and weaknesses of a person. After comparing them, we should make a fair decision based on what is greater.
+
+The central message of the Kural is **balanced judgment** — examine, compare and then decide.
 
 ## Team: BYTE CODE
 
